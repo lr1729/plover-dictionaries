@@ -1,0 +1,686 @@
+2021-03-27 13:31:33,125 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-27 13:31:33,212 [MainThread] INFO: 48 custom mappings(s)
+2021-03-27 13:31:33,315 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-27 13:31:33,315 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-27 13:31:33,724 [Dummy-1] INFO: setting machine: Keyboard
+2021-03-27 13:31:33,740 [Dummy-1] INFO: XInput devices: 6, 7, 8, 9, 12, 13, 14, 16, 17
+2021-03-27 13:31:33,743 [Dummy-1] INFO: recreating /home/ling/.config/plover/user.json from asset:plover:assets/user.json
+2021-03-27 13:31:33,743 [Dummy-1] INFO: recreating /home/ling/.config/plover/commands.json from asset:plover:assets/commands.json
+2021-03-27 13:31:33,743 [Dummy-1] INFO: recreating /home/ling/.config/plover/main.json from asset:plover:assets/main.json
+2021-03-27 13:31:33,746 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-27 13:31:33,747 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-27 13:31:33,747 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-27 13:31:34,242 [Dummy-1] INFO: loaded 3 dictionaries in 0.495s
+2021-03-27 13:34:24,564 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-27 13:34:24,648 [MainThread] INFO: 48 custom mappings(s)
+2021-03-27 13:34:24,749 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-27 13:34:24,750 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-27 13:34:25,185 [Dummy-1] INFO: setting machine: Keyboard
+2021-03-27 13:34:25,191 [Dummy-1] INFO: XInput devices: 6, 7, 8, 9, 12, 13, 14, 16, 17
+2021-03-27 13:34:25,192 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-27 13:34:25,192 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-27 13:34:25,192 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-27 13:34:25,711 [Dummy-1] INFO: loaded 3 dictionaries in 0.519s
+2021-03-27 13:35:09,198 [Dummy-1] INFO: setting machine: Keyboard
+2021-03-27 13:35:09,205 [Dummy-1] INFO: XInput devices: 6, 7, 8, 9, 12, 13, 14, 16, 17
+2021-03-27 13:35:09,205 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 13:35:47,326 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-27 13:35:47,327 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 13:35:51,842 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 13:35:58,592 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 13:36:11,653 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 13:36:15,663 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 13:36:24,638 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 13:37:36,767 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 13:39:25,540 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-27 14:03:28,574 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-27 14:03:28,662 [MainThread] INFO: 48 custom mappings(s)
+2021-03-27 14:03:28,760 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-27 14:03:28,760 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-27 14:03:29,166 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-27 14:03:29,167 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-27 14:03:29,167 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-27 14:03:29,167 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-27 14:03:29,752 [Dummy-1] INFO: loaded 3 dictionaries in 0.585s
+2021-03-27 19:33:47,145 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-27 19:33:47,228 [MainThread] INFO: 48 custom mappings(s)
+2021-03-27 19:33:47,321 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-27 19:33:47,321 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-27 19:33:47,728 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-27 19:33:47,730 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-27 19:33:47,730 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-27 19:33:47,731 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-27 19:33:48,267 [Dummy-1] INFO: loaded 3 dictionaries in 0.537s
+2021-03-28 01:18:18,283 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-28 01:18:18,372 [MainThread] INFO: 48 custom mappings(s)
+2021-03-28 01:18:18,462 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-28 01:18:18,462 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-28 01:18:18,897 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-28 01:18:18,898 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-28 01:18:18,898 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-28 01:18:18,899 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-28 01:18:19,560 [Dummy-1] INFO: loaded 3 dictionaries in 0.662s
+2021-03-28 09:41:33,951 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-28 09:41:34,040 [MainThread] INFO: 48 custom mappings(s)
+2021-03-28 09:41:34,129 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-28 09:41:34,129 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-28 09:41:34,535 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-28 09:41:34,537 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-28 09:41:34,538 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-28 09:41:34,538 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-28 09:41:35,039 [Dummy-1] INFO: loaded 3 dictionaries in 0.502s
+2021-03-28 20:06:08,522 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-28 20:06:08,619 [MainThread] INFO: 48 custom mappings(s)
+2021-03-28 20:06:08,708 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-28 20:06:08,708 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-28 20:06:09,103 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-28 20:06:09,104 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-28 20:06:09,105 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-28 20:06:09,105 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-28 20:06:09,619 [Dummy-1] INFO: loaded 3 dictionaries in 0.516s
+2021-03-29 09:23:36,567 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-29 09:23:36,659 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 09:23:36,753 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 09:23:36,753 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 09:23:37,158 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 09:23:37,159 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 09:23:37,160 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 09:23:37,161 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 09:23:37,725 [Dummy-1] INFO: loaded 3 dictionaries in 0.566s
+2021-03-29 12:27:11,931 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 12:27:11,932 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-03-29 12:27:11,967 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-29 12:27:18,578 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-29 12:27:18,662 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 12:27:18,760 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 12:27:18,760 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 12:27:19,172 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 12:27:19,172 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-03-29 12:27:19,216 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 12:27:19,217 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 12:27:19,217 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 12:27:19,752 [Dummy-1] INFO: loaded 3 dictionaries in 0.536s
+2021-03-29 12:27:26,058 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 12:27:26,059 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-29 18:20:44,306 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-29 18:20:44,398 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 18:20:44,493 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 18:20:44,493 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 18:20:44,867 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 18:20:44,869 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 18:20:44,870 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 18:20:44,870 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 18:20:45,379 [Dummy-1] INFO: loaded 3 dictionaries in 0.510s
+2021-03-29 20:30:42,631 [MainThread] INFO: setting language to: 
+2021-03-29 20:30:43,025 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 20:30:43,132 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 20:30:43,133 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 20:30:43,688 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 20:30:43,691 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 20:30:43,691 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 20:30:43,691 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 20:30:44,321 [Dummy-1] INFO: loaded 3 dictionaries in 0.630s
+2021-03-29 20:35:34,953 [MainThread] INFO: setting language to: 
+2021-03-29 20:35:35,345 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 20:35:35,452 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 20:35:35,452 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 20:35:35,914 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 20:35:35,915 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 20:35:35,915 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 20:35:35,915 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 20:35:36,525 [Dummy-1] INFO: loaded 3 dictionaries in 0.610s
+2021-03-29 20:35:48,009 [MainThread] INFO: setting language to: 
+2021-03-29 20:35:48,444 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 20:35:48,558 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 20:35:48,559 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 20:35:49,036 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 20:35:49,039 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 20:35:49,040 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 20:35:49,040 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 20:35:49,701 [Dummy-1] INFO: loaded 3 dictionaries in 0.662s
+2021-03-29 20:36:33,276 [MainThread] INFO: setting language to: 
+2021-03-29 20:36:33,692 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 20:36:33,806 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 20:36:33,807 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 20:36:34,318 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 20:36:34,319 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 20:36:34,320 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 20:36:34,320 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 20:36:34,972 [Dummy-1] INFO: loaded 3 dictionaries in 0.653s
+2021-03-29 20:40:56,189 [MainThread] INFO: setting language to: 
+2021-03-29 20:40:56,618 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 20:40:56,722 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 20:40:56,722 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 20:40:57,201 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 20:40:57,202 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 20:40:57,213 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 20:40:57,215 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 20:40:57,784 [Dummy-1] INFO: loaded 3 dictionaries in 0.582s
+2021-03-29 20:41:09,966 [MainThread] INFO: setting language to: 
+2021-03-29 20:41:10,366 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 20:41:10,476 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 20:41:10,476 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 20:41:10,920 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 20:41:10,921 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 20:41:10,921 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 20:41:10,921 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 20:41:11,548 [Dummy-1] INFO: loaded 3 dictionaries in 0.627s
+2021-03-29 21:51:30,103 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-29 21:51:30,190 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 21:51:30,284 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 21:51:30,284 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 21:51:30,698 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 21:51:30,698 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 21:51:30,698 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 21:51:30,699 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 21:51:31,236 [Dummy-1] INFO: loaded 3 dictionaries in 0.537s
+2021-03-29 23:00:32,072 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-29 23:00:32,162 [MainThread] INFO: 48 custom mappings(s)
+2021-03-29 23:00:32,308 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-29 23:00:32,308 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-29 23:00:32,685 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-29 23:00:32,686 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-29 23:00:32,686 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-29 23:00:32,686 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-29 23:00:33,271 [Dummy-1] INFO: loaded 3 dictionaries in 0.585s
+2021-03-30 11:57:20,370 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-30 11:57:20,463 [MainThread] INFO: 48 custom mappings(s)
+2021-03-30 11:57:20,555 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-30 11:57:20,555 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-30 11:57:20,967 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-30 11:57:20,969 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-30 11:57:20,970 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-30 11:57:20,970 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-30 11:57:21,494 [Dummy-1] INFO: loaded 3 dictionaries in 0.525s
+2021-03-31 10:17:39,566 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-31 10:17:39,656 [MainThread] INFO: 48 custom mappings(s)
+2021-03-31 10:17:39,746 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-31 10:17:39,746 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-31 10:17:40,138 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-31 10:17:40,139 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-31 10:17:40,140 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-31 10:17:40,140 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-31 10:17:40,654 [Dummy-1] INFO: loaded 3 dictionaries in 0.516s
+2021-03-31 10:48:20,898 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-31 10:50:49,207 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-03-31 10:53:15,747 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-03-31 10:53:15,829 [MainThread] INFO: 48 custom mappings(s)
+2021-03-31 10:53:15,919 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-03-31 10:53:15,920 [Dummy-1] INFO: loading system: English Stenotype
+2021-03-31 10:53:16,314 [Dummy-1] INFO: setting machine: Gemini PR
+2021-03-31 10:53:16,315 [Dummy-1] INFO: recreating /home/ling/.config/plover/commands.json from asset:plover:assets/commands.json
+2021-03-31 10:53:16,315 [Dummy-1] INFO: recreating /home/ling/.config/plover/main.json from asset:plover:assets/main.json
+2021-03-31 10:53:16,328 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-03-31 10:53:16,328 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-03-31 10:53:16,330 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-03-31 10:53:16,820 [Dummy-1] INFO: loaded 3 dictionaries in 0.493s
+2021-04-01 11:22:22,440 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-01 11:22:22,535 [MainThread] INFO: 48 custom mappings(s)
+2021-04-01 11:22:22,626 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-01 11:22:22,627 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-01 11:22:23,018 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-01 11:22:23,020 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-01 11:22:23,020 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-01 11:22:23,021 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-01 11:22:23,537 [Dummy-1] INFO: loaded 3 dictionaries in 0.517s
+2021-04-01 11:59:17,716 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-02 10:13:10,017 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-02 10:13:10,116 [MainThread] INFO: 48 custom mappings(s)
+2021-04-02 10:13:10,222 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-02 10:13:10,222 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-02 10:13:10,647 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 10:13:10,648 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-02 10:13:10,649 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-02 10:13:10,650 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-02 10:13:11,178 [Dummy-1] INFO: loaded 3 dictionaries in 0.530s
+2021-04-02 12:33:03,121 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 12:33:03,121 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-02 12:33:03,150 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-02 12:33:09,737 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-02 12:33:09,822 [MainThread] INFO: 48 custom mappings(s)
+2021-04-02 12:33:09,915 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-02 12:33:09,915 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-02 12:33:10,299 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 12:33:10,300 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-02 12:33:10,325 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-02 12:33:10,326 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-02 12:33:10,326 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-02 12:33:10,866 [Dummy-1] INFO: loaded 3 dictionaries in 0.541s
+2021-04-02 12:33:27,321 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-02 12:33:27,402 [MainThread] INFO: 48 custom mappings(s)
+2021-04-02 12:33:27,498 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-02 12:33:27,499 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-02 12:33:27,871 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 12:33:27,872 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-02 12:33:27,872 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-02 12:33:27,873 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-02 12:33:28,378 [Dummy-1] INFO: loaded 3 dictionaries in 0.506s
+2021-04-02 15:32:16,350 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-02 15:32:16,434 [MainThread] INFO: 48 custom mappings(s)
+2021-04-02 15:32:16,529 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-02 15:32:16,529 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-02 15:32:16,925 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 15:32:16,926 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-02 15:32:16,926 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-02 15:32:16,928 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-02 15:32:17,480 [Dummy-1] INFO: loaded 3 dictionaries in 0.554s
+2021-04-02 16:48:35,438 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 16:48:35,438 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-02 16:48:35,474 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-02 16:48:42,030 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-02 16:48:42,123 [MainThread] INFO: 48 custom mappings(s)
+2021-04-02 16:48:42,225 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-02 16:48:42,226 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-02 16:48:42,639 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 16:48:42,639 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-02 16:48:42,679 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-02 16:48:42,680 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-02 16:48:42,680 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-02 16:48:43,207 [Dummy-1] INFO: loaded 3 dictionaries in 0.528s
+2021-04-02 16:48:53,681 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 16:48:53,682 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-02 19:03:46,045 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-02 19:03:46,145 [MainThread] INFO: 48 custom mappings(s)
+2021-04-02 19:03:46,241 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-02 19:03:46,241 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-02 19:03:46,654 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-02 19:03:46,654 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-02 19:03:46,698 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-02 19:03:46,699 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-02 19:03:46,699 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-02 19:03:47,285 [Dummy-1] INFO: loaded 3 dictionaries in 0.587s
+2021-04-03 14:10:56,678 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-03 14:10:56,766 [MainThread] INFO: 48 custom mappings(s)
+2021-04-03 14:10:56,857 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-03 14:10:56,857 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-03 14:10:57,240 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-03 14:10:57,240 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-03 14:10:57,281 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-03 14:10:57,282 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-03 14:10:57,282 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-03 14:10:57,814 [Dummy-1] INFO: loaded 3 dictionaries in 0.533s
+2021-04-03 14:11:07,159 [Dummy-1] INFO: setting machine: Keyboard
+2021-04-03 14:11:07,166 [Dummy-1] INFO: XInput devices: 6, 7, 8, 14, 17, 18, 19, 9, 10, 11, 20
+2021-04-03 14:11:07,255 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-03 14:11:07,506 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-03 14:11:13,212 [Dummy-1] INFO: setting machine: Keyboard
+2021-04-03 14:11:13,220 [Dummy-1] INFO: XInput devices: 6, 7, 8, 14, 17, 18, 19, 9, 10, 11, 20
+2021-04-03 14:11:13,307 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-05 11:56:55,080 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-05 11:56:55,172 [MainThread] INFO: 48 custom mappings(s)
+2021-04-05 11:56:55,265 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-05 11:56:55,265 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-05 11:56:55,673 [Dummy-1] INFO: setting machine: Keyboard
+2021-04-05 11:56:55,680 [Dummy-1] INFO: XInput devices: 6, 7, 8, 14, 17, 18, 19, 10, 11, 12, 20
+2021-04-05 11:56:55,778 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-05 11:56:55,778 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-05 11:56:55,789 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-05 11:56:56,310 [Dummy-1] INFO: loaded 3 dictionaries in 0.532s
+2021-04-07 13:16:42,836 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-07 13:16:42,918 [MainThread] INFO: 48 custom mappings(s)
+2021-04-07 13:16:43,011 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-07 13:16:43,012 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-07 13:16:43,394 [Dummy-1] INFO: setting machine: Keyboard
+2021-04-07 13:16:43,401 [Dummy-1] INFO: XInput devices: 6, 7, 8, 10, 13, 14, 15, 17, 18, 19, 20
+2021-04-07 13:16:43,517 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-07 13:16:43,517 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-07 13:16:43,527 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-07 13:16:44,080 [Dummy-1] INFO: loaded 3 dictionaries in 0.563s
+2021-04-07 13:39:34,819 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/engine.py", line 137, in run
+    if func(*args, **kwargs):
+  File "/usr/lib/python3.9/site-packages/plover/engine.py", line 359, in _on_stroked
+    self._translator.translate(stroke)
+  File "/usr/lib/python3.9/site-packages/plover/translation.py", line 207, in translate
+    self.flush()
+  File "/usr/lib/python3.9/site-packages/plover/translation.py", line 267, in flush
+    self._output(undo, do, prev)
+  File "/usr/lib/python3.9/site-packages/plover/translation.py", line 272, in _output
+    callback(undo, do, prev)
+  File "/usr/lib/python3.9/site-packages/plover/formatting.py", line 385, in format
+    t.formatting = _translation_to_actions(t.english, ctx)
+  File "/usr/lib/python3.9/site-packages/plover/formatting.py", line 751, in _translation_to_actions
+    action = _atom_to_action(atom, ctx)
+  File "/usr/lib/python3.9/site-packages/plover/formatting.py", line 815, in _atom_to_action
+    action = _meta_to_action(meta, ctx)
+  File "/usr/lib/python3.9/site-packages/plover/formatting.py", line 791, in _meta_to_action
+    meta_fn = registry.get_plugin('meta', meta_name).obj
+  File "/usr/lib/python3.9/site-packages/plover/registry.py", line 73, in get_plugin
+    return self._plugins[plugin_type][plugin_name.lower()]
+KeyError: '^'
+2021-04-07 16:13:19,424 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-07 16:13:19,513 [MainThread] INFO: 48 custom mappings(s)
+2021-04-07 16:13:19,607 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-07 16:13:19,608 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-07 16:13:19,996 [Dummy-1] INFO: setting machine: Keyboard
+2021-04-07 16:13:20,003 [Dummy-1] INFO: XInput devices: 6, 7, 8, 10, 13, 14, 15, 17, 18, 19, 20, 22
+2021-04-07 16:13:20,100 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-07 16:13:20,101 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-07 16:13:20,101 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-07 16:13:20,622 [Dummy-1] INFO: loaded 3 dictionaries in 0.523s
+2021-04-07 16:13:32,553 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 16:13:32,554 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 16:13:33,381 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 16:13:44,570 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 16:13:44,571 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 16:14:28,405 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 16:14:28,795 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 16:14:31,632 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 16:14:31,633 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 16:14:36,252 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-07 16:14:36,333 [MainThread] INFO: 48 custom mappings(s)
+2021-04-07 16:14:36,427 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-07 16:14:36,427 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-07 16:14:36,816 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 16:14:36,818 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-07 16:14:36,819 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-07 16:14:36,828 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-07 16:14:37,309 [Dummy-1] INFO: loaded 3 dictionaries in 0.490s
+2021-04-07 16:15:07,019 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 16:15:07,020 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-07 16:15:07,071 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 16:15:15,956 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 16:15:15,957 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 16:16:07,359 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 16:16:07,360 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-07 17:27:48,569 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-07 17:27:48,656 [MainThread] INFO: 48 custom mappings(s)
+2021-04-07 17:27:48,746 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-07 17:27:48,746 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-07 17:27:49,119 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 17:27:49,122 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-07 17:27:49,122 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-07 17:27:49,122 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-07 17:27:49,618 [Dummy-1] INFO: loaded 3 dictionaries in 0.497s
+2021-04-07 22:21:19,558 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-07 22:21:19,660 [MainThread] INFO: 48 custom mappings(s)
+2021-04-07 22:21:19,754 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-07 22:21:19,755 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-07 22:21:20,134 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-07 22:21:20,135 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-07 22:21:20,136 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-07 22:21:20,136 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-07 22:21:20,661 [Dummy-1] INFO: loaded 3 dictionaries in 0.526s
+2021-04-08 10:10:50,602 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-08 10:10:50,707 [MainThread] INFO: 48 custom mappings(s)
+2021-04-08 10:10:50,817 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-08 10:10:50,817 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-08 10:10:51,276 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 10:10:51,279 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-08 10:10:51,280 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-08 10:10:51,280 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-08 10:10:51,868 [Dummy-1] INFO: loaded 3 dictionaries in 0.588s
+2021-04-08 15:40:46,168 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 15:40:46,169 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-08 15:40:46,209 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-08 15:40:52,761 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 15:40:52,762 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-08 15:41:02,000 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-08 15:41:02,122 [MainThread] INFO: 48 custom mappings(s)
+2021-04-08 15:41:02,261 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-08 15:41:02,261 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-08 15:41:02,916 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 15:41:02,917 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-08 15:41:02,917 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-08 15:41:02,919 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-08 15:41:03,632 [Dummy-1] INFO: loaded 3 dictionaries in 0.715s
+2021-04-08 17:34:44,335 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 17:34:44,336 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-08 17:34:44,375 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-08 17:34:51,744 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-08 17:34:51,829 [MainThread] INFO: 48 custom mappings(s)
+2021-04-08 17:34:51,921 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-08 17:34:51,921 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-08 17:34:52,321 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 17:34:52,322 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-08 17:34:52,366 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-08 17:34:52,367 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-08 17:34:52,368 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-08 17:34:52,898 [Dummy-1] INFO: loaded 3 dictionaries in 0.531s
+2021-04-08 17:35:01,281 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 17:35:01,284 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-08 22:29:11,034 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-08 22:29:11,125 [MainThread] INFO: 48 custom mappings(s)
+2021-04-08 22:29:11,229 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-08 22:29:11,229 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-08 22:29:11,602 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 22:29:11,602 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-08 22:29:11,638 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-08 22:29:11,638 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-08 22:29:11,639 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-08 22:29:12,158 [Dummy-1] INFO: loaded 3 dictionaries in 0.520s
+2021-04-08 22:29:19,625 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 22:29:19,626 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-08 22:52:13,074 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 22:52:13,075 [Dummy-1] WARNING: Can't open serial port
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/plover/machine/base.py", line 211, in start_capture
+    self.serial_port = serial.Serial(**self.serial_params)
+  File "/usr/lib/python3.9/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/lib/python3.9/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2021-04-08 22:52:13,115 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-08 22:52:23,147 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-08 22:52:23,148 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-04-09 10:00:46,276 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-04-09 10:00:46,365 [MainThread] INFO: 48 custom mappings(s)
+2021-04-09 10:00:46,455 [Dummy-1] INFO: set_stroke_filename(/home/ling/.config/plover/strokes.log)
+2021-04-09 10:00:46,455 [Dummy-1] INFO: loading system: English Stenotype
+2021-04-09 10:00:46,853 [Dummy-1] INFO: setting machine: Gemini PR
+2021-04-09 10:00:46,855 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/commands.json
+2021-04-09 10:00:46,855 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/user.json
+2021-04-09 10:00:46,855 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/main.json
+2021-04-09 10:00:47,377 [Dummy-1] INFO: loaded 3 dictionaries in 0.522s
+2021-04-09 13:00:22,947 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/thumb_numbers.json
+2021-04-09 13:00:22,948 [Dummy-1] INFO: loaded 4 dictionaries in 0.001s
+2021-04-09 13:04:18,973 [Dummy-1] INFO: loading dictionary: /home/ling/.config/plover/thumb_numbers.json
+2021-04-09 13:04:18,973 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-04-09 13:04:19,410 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-04-09 13:04:19,630 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-04-09 13:04:21,658 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-04-09 13:04:21,935 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
